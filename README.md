@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Quizzler/Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Quizzler-iOS13/Documentation/AppBreweryBanner.png)
 
 #  Quizzler
 
